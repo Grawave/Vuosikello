@@ -3,6 +3,11 @@ Vuosikello on työkalu, jonka avulla työntekijät näkevät ja hahmottavat vuod
 
 Vuosikello on kehitetty Kuntaliitolle. Tällä sivulla on toistaiseksi kuvausta vain yleisestä toiminnallisuudesta ja testauksesta.
 
+### Toteutus
+Vuosikello on toteutettuu Javalla. Graafinen käyttöliittymä on tehty Swing kirjasaton komponenteilla (tapahtumien paikat on kovakoodattu GroupLayoutiin).
+
+Tapahtumat luetaan excel taulukosta käyttämällä [apache POI APIa](https://poi.apache.org/).
+
 ### Lyhyt kuvaus
 Vuosinäkymässä on neljänlaisia tapahtumia, kahteen lehteen liittyviä julkaisupäivämääriä (musta ja oranssi), tärkeitä tapahtumia (sininen), tapahtumia (vihreä).Värimaailma on asiakkaan toiveiden mukainen.
 
