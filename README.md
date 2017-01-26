@@ -3,6 +3,8 @@ Vuosikello on työkalu, jonka avulla työntekijät näkevät ja hahmottavat vuod
 
 Vuosikello on kehitetty Kuntaliitolle. Tällä sivulla on toistaiseksi kuvausta vain yleisestä toiminnallisuudesta ja testauksesta.
 
+Käyttöohjeet lötyvät [tästä](Dokumentaatio/ohjekirja.pdf)
+
 ### Toteutus
 Vuosikello on toteutettuu Javalla. Graafinen käyttöliittymä on tehty Swing kirjasaton komponenteilla (tapahtumien paikat on kovakoodattu GroupLayoutiin).
 
