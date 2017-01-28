@@ -17,5 +17,5 @@ Klikkaamalla tapahtumasta saa kaiken tapahtumaan liittyvän tiedon näkyviin. Kl
 
 ![Näkymä] (Dokumentaatio/testiNakyma.png)
 ### Projektin tilanne
-Projekti on vielä beta vaiheessa, kuukausinäkymä ja värimaailma ovat vielä työnalla.
+Tuote on asennettu asiakkaan koneille.
 
